@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science, Data Analyst**
 
-- 💬 Ask me about **Powerbi, Nuimpy, Matplotlib, Pandas**
+- 💬 Ask me about **Powerbi, Numpy, Matplotlib, Pandas**
 
 - 📫 How to reach me **deopragati62@gmail.com**
 
